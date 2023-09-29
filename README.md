@@ -1,5 +1,5 @@
 
-**1. Descarga la imagen 'httpd' y comprueba que está en tu equipox**
+**1. Descarga la imagen 'httpd' y comprueba que está en tu equipo**
 
 Para descargar la imagen 'httpd' versión 2.4, utiliza el siguiente comando:
 
